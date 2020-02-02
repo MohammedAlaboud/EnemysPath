@@ -1,7 +1,12 @@
 # EnemysPath
 Unity game project based on Tower Defence type games. 
 
-#![](images/scWin.png)
+Blow are screenshots of the gameplay:
+
+![](images/scMainMenu.png)
+![](images/scGameplayA.png)
+![](images/scGameplayB.png)
+![](images/scGameOver.png)
  
 Below are the asset packs used in this project that were obtained from the Unity Asset Store
 
